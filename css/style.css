@@ -53,9 +53,9 @@ button{
 }
 
 .task{
-    background-color: aqua;
+    background-color: rgb(69, 171, 234);;
     color: #fff;
-    border-color: aqua;
+    border-color: rgb(69, 171, 234);;
     
 }
 
@@ -77,6 +77,10 @@ ul{
 
     list-style: none;
 
+}
+
+strong{
+    font-size: large;
 }
 
 .mark{
