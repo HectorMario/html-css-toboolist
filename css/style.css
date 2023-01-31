@@ -33,7 +33,7 @@ img{
 /* Main  */
 
 main{
-    margin: 5% 20%;
+    margin: 5% 15%;
     
     
 
@@ -46,10 +46,19 @@ main{
     
 }
 
+.move{
+    margin-left: 5%;
+}
+
+.movemain{
+    margin-left: 6%;
+}
+
 button{
     padding: 5px;
     border-radius: 10px;
     border: solid 1px;
+    
 }
 
 .task{
@@ -68,9 +77,10 @@ button{
 
 .liste{
     background-color: #fff;
-    line-height: 2;
+    line-height: 2.5;
     margin-top: 2px;
     padding: 10px;
+
 }
 
 ul{
@@ -107,44 +117,53 @@ strong{
     padding: 4px;
     background-color: rgb(69, 171, 234);
     color: #fff;
-    border-radius: 20px;
+    border-radius: 10px;
+    font-size: x-small;
+    padding: 4px 8px;
 }
 
 .goal{
     padding: 4px;
     color: #fff;
     background-color: rgb(156, 114, 228);
-    border-radius: 20px;
+    border-radius: 10px;
+    font-size: x-small;
+    padding: 4px 8px;
 }
 
 .recru{
     padding: 4px;
     color: #fff;
     background-color: rgb(100, 192, 169);
-    border-radius: 20px;
+    border-radius: 10px;
+    font-size: x-small;
+    padding: 4px 8px;
 }
 
 .mobile{
     padding: 4px;
     color: #fff;
     background-color: rgb(242, 158, 51);
-    border-radius: 20px;
+    border-radius: 10px;
+    font-size: x-small;
+    padding: 4px 8px;
 }
 
 .website{
     padding: 4px;
     color: #fff;
     background-color: rgb(216, 99, 161);
-    border-radius: 20px;
+    border-radius: 10px;
+    font-size: x-small;
+    padding: 4px 8px;
 }
 
 .sales{
     padding: 4px;
     color: #fff;
     background-color: rgb(176, 201, 38);
-    border-radius: 20px;
+    border-radius: 10px;
+    font-size: x-small;
+    padding: 4px 8px;
 }
 
-h2{
-     display: inline-block;
-}
